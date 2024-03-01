@@ -1,2 +1,6 @@
 ## Create a Machine Learning Model to Assess Credit Risk for a Peer-to-Peer Lending Company
 This project aims to create a credit risk model that will determine the probability of individuals repaying the loans they are given, which in turn determines the interest rate they will be charged. I have used gradient boosting machines, in particular lightGBM.
+
+
+### Scinario
+The risk assessment team is in charge of creating the credit risk model that will determine the probability of individuals repaying the loans they are given, which in turn determines the interest rate they will be charged. They currently use a linear model to assess credit risk. The risk manager heard that machine learning is trendy and could provide better results. So they hired you to try and improve their credit risk model by utilizing gradient boosting machines, in particular lightGBM. Your task is to create this model, compare its performance to the current linear model, and convince the CEO and the investors that the new model will return higher profits and better customer service.
